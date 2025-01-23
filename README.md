@@ -1,4 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ernesto ===============================================================================================================================  Sr Full Stack Engineer ----------------------  Passionate Full Stack Engineer passionate about creating new solutions to make people life easy, always leveraging on latest technologies. Focused on continuos learning and self improvement. Providing solutions: - ReactJS - Express JS - NoSql - Graphql -Mobile apps: android sdk  * 🌍  I'm based in California * ✉️  You can contact me at [gonzalez.lopez.ernesto@gmail.com](mailto:gonzalez.lopez.ernesto@gmail.com) * 🚀  I'm currently working on [Recommendations api](http://.) * 🧠  I'm learning Dart Flutter, Data Science * 🤝  I'm open to collaborating on AI E-commerce projects
+Hi My name is Ernesto  Sr Full Stack Engineer 
+Passionate Full Stack Engineer passionate about creating new solutions to make people life easy, always leveraging on latest technologies. Focused on continuos learning and self improvement. Providing solutions: - ReactJS 
+- Express JS
+- NoSql
+- Graphql
+- Mobile apps: android sdk
+ * 🌍  I'm based in California * ✉️  You can contact me at [gonzalez.lopez.ernesto@gmail.com](mailto:gonzalez.lopez.ernesto@gmail.com) * 🚀  I'm currently working on [Recommendations api](http://.) * 🧠  I'm learning Dart Flutter, Data Science * 🤝  I'm open to collaborating on AI E-commerce projects
 
 ### Skills  
 
