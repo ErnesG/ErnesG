@@ -13,11 +13,13 @@ Hi My name is Ernesto
 - NoSql
 - Graphql
 - Mobile apps: android sdk
- - 🌍  I'm based in California
- - ✉️  You can contact me at [gonzalez.lopez.ernesto@gmail.com](mailto:gonzalez.lopez.ernesto@gmail.com)
- - 🚀  I'm currently working on [Recommendations api](http://.)
- - 🧠  I'm learning Dart Flutter, Data Science
- - 🤝  I'm open to collaborating on AI E-commerce projects or any fascinating front-end.
+
+  More about me:
+   🌍  I'm based in California
+   ✉️  You can contact me at [gonzalez.lopez.ernesto@gmail.com](mailto:gonzalez.lopez.ernesto@gmail.com)
+   🚀  I'm currently working on [Recommendations api](http://.) and an e-commerce for Latinx owned business platform.
+   🧠  I'm learning Dart Flutter, Data Science
+   🤝  I'm open to collaborating on AI E-commerce projects or any fascinating front-end.
 
 If you don't find me coding, you might find me taking some cool pics 📸 or 🍳 healthy food. PS: my perfect day is 🏋️‍♀️🧑🏽‍💻📚☕️.
 
