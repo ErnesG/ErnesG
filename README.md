@@ -1,8 +1,13 @@
 Hi My name is Ernesto  Sr Full Stack Engineer 
 * Passionate Full Stack Engineer passionate about creating new solutions to make people life easy, always leveraging on latest technologies. Focused on continuos learning and self improvement. Providing solutions: *
-*
 - ReactJS 
 - Express JS
+- ViteJs
+- NodeJs
+- Typescript
+- JavaScript
+- Python: a special place in my heart
+- Docker ❤️
 - NoSql
 - Graphql
 - Mobile apps: android sdk
@@ -11,6 +16,8 @@ Hi My name is Ernesto  Sr Full Stack Engineer
  - 🚀  I'm currently working on [Recommendations api](http://.)
  - 🧠  I'm learning Dart Flutter, Data Science
  - 🤝  I'm open to collaborating on AI E-commerce projects or any fascinating front-end.
+
+### If you don't find me coding, you might find me taking some cool pics 📸, by the way my perfect day is 🏋️‍♀️🧑🏽‍💻☕️.
 
 ### Skills  
 
