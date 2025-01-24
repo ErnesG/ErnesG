@@ -6,7 +6,11 @@ Hi My name is Ernesto  Sr Full Stack Engineer
 - NoSql
 - Graphql
 - Mobile apps: android sdk
- * 🌍  I'm based in California * ✉️  You can contact me at [gonzalez.lopez.ernesto@gmail.com](mailto:gonzalez.lopez.ernesto@gmail.com) * 🚀  I'm currently working on [Recommendations api](http://.) * 🧠  I'm learning Dart Flutter, Data Science * 🤝  I'm open to collaborating on AI E-commerce projects
+ - 🌍  I'm based in California
+ - ✉️  You can contact me at [gonzalez.lopez.ernesto@gmail.com](mailto:gonzalez.lopez.ernesto@gmail.com)
+ - 🚀  I'm currently working on [Recommendations api](http://.)
+ - 🧠  I'm learning Dart Flutter, Data Science
+ - 🤝  I'm open to collaborating on AI E-commerce projects or any fascinating front-end.
 
 ### Skills  
 
