@@ -1,6 +1,6 @@
 Hi My name is Ernesto  
  I am a Full Stack Web Developer:
-* Passionate Full Stack Engineer passionate about creating new solutions to make people life easy, always leveraging on latest technologies. Focused on continuos learning and self improvement. Providing solutions: *
+* Passionate Full Stack Engineer passionate about creating tech solutions to make people life easy, always leveraging on latest technologies. Focused on continuos learning and self improvement. Providing solutions using these amazing developement tools:
 - ReactJS 
 - Express JS
 - ViteJs
@@ -9,6 +9,7 @@ Hi My name is Ernesto
 - JavaScript
 - Python: a special place in my heart
 - Docker ❤️
+- Github Actions.
 - NoSql
 - Graphql
 - Mobile apps: android sdk
