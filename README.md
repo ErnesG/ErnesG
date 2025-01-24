@@ -1,4 +1,5 @@
-Hi My name is Ernesto  Sr Full Stack Engineer 
+Hi My name is Ernesto  
+ I am a Full Stack Web Developer:
 * Passionate Full Stack Engineer passionate about creating new solutions to make people life easy, always leveraging on latest technologies. Focused on continuos learning and self improvement. Providing solutions: *
 - ReactJS 
 - Express JS
