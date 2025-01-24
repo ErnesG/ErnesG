@@ -1,6 +1,6 @@
 Hi My name is Ernesto  
  I am a Full Stack Web Developer:
-* Passionate  about creating tech solutions to make people's life easy, always leveraging on latest technologies. Focused on continuos learning and self improvement. Providing solutions using these amazing developement tools:
+* Passionate about building tech solutions that simplify people's lives by leveraging the latest technologies. Committed to continuous learning and self-improvement while delivering solutions with cutting-edge development tools:
 - ReactJS 
 - Express JS
 - ViteJs
@@ -19,7 +19,7 @@ Hi My name is Ernesto
  - 🧠  I'm learning Dart Flutter, Data Science
  - 🤝  I'm open to collaborating on AI E-commerce projects or any fascinating front-end.
 
-### If you don't find me coding, you might find me taking some cool pics 📸, by the way my perfect day is 🏋️‍♀️🧑🏽‍💻☕️.
+If you don't find me coding, you might find me taking some cool pics 📸 or 🍳 healthy food. PS: my perfect day is 🏋️‍♀️🧑🏽‍💻📚☕️.
 
 ### Skills  
 
