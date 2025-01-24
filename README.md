@@ -14,6 +14,8 @@ I am a Full Stack Web Developer passionate about building tech solutions that si
 - Mobile apps: android sdk
 
   More about me:
+
+  
    🌍  I'm based in California
    ✉️  You can contact me at [gonzalez.lopez.ernesto@gmail.com](mailto:gonzalez.lopez.ernesto@gmail.com)
    🚀  I'm currently working on [Recommendations api](http://.) and an e-commerce for Latinx owned business platform.
