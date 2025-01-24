@@ -1,4 +1,4 @@
-Hi this is Ernesto a Full Stack Web Developer passionate about building tech solutions that simplify people's lives by leveraging the latest technologies. Committed to continuous learning and self-improvement while delivering solutions with cutting-edge development tools:
+Hi this is Ernesto a Full Stack Web Developer passionate about building tech solutions that simplify people's lives by leveraging the latest technologies. Committed to continuous learning and self-improvement while delivering solutions with cutting-edge development technologies:
 - ReactJS 
 - Express JS
 - ViteJs
