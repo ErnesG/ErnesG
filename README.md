@@ -31,7 +31,7 @@ Hi this is Ernesto a Full Stack Web Developer passionate about building tech sol
 
   
 
-👀  If you don't find me coding, you might find me taking some cool pics 📸 or 🍳 healthy food. PS: my perfect day is 🏋️‍♀️🧑🏽‍💻📚☕️. 👀
+👀  If you don't find me coding, you might find me taking some cool pics 📸 or 🍳 healthy food. PS: my perfect day is 🏋️‍♀️🧑🏽‍💻📚☕️.
 
 
 
